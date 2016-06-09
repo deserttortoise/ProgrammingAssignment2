@@ -1,5 +1,5 @@
 ## makeCacheMatrix Creates a list of functions to be passed 
-##to the  Cache solve function
+##to the  Cache solve function and so on
 makeCacheMatrix <- function(x = matrix()) {
   
   
